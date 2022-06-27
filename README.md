@@ -1,7 +1,7 @@
 # <p>Cinema app </p>
 
-Cinema is a simple API implemented with Hibernate and Spring that </br>
-allows you to register, select a movie session or book a ticket, </br>
+Cinema is a simple API implemented with Hibernate and Spring that 
+allows you to register, select a movie session or book a ticket, 
 view attendance history if you are a user, an administrator can create a movie session and more.
 
 # About project
